@@ -30,7 +30,7 @@ This project brings the refreshing world of mojitos to life with smooth animatio
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/your-username/mojito-cocktails.git
+git clone https://github.com/TanishqNikam/mojito-cocktails.git
 cd mojito-cocktails
 ```
 
