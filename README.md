@@ -1,12 +1,64 @@
-# React + Vite
+# 🍸 Mojito Cocktails
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, interactive cocktails showcase built with **Vite + React, TailwindCSS, and GSAP**.  
+This project brings the refreshing world of mojitos to life with smooth animations, a stylish design, and a fully responsive UI.
 
-Currently, two official plugins are available:
+👉 **Live Demo**: [Mojito Cocktails](https://shopmojitococktails.vercel.app/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## ✨ Features
+- 🎨 Elegant and minimal UI with TailwindCSS  
+- 🍹 Cocktails section with popular & loved menu suggestions  
+- 🌿 Animated leaves & scroll effects using **GSAP ScrollTrigger**  
+- 🖼️ Hero slider featuring multiple mojito varieties  
+- 📱 Fully responsive design (mobile-first)  
+- 🕒 Store details, opening hours & contact info  
+- 🌐 Deployed seamlessly on **Vercel**
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Tech Stack
+- **Frontend:** React (Vite)  
+- **Styling:** TailwindCSS  
+- **Animations:** GSAP (ScrollTrigger)  
+- **Deployment:** Vercel  
+
+---
+
+## 🚀 Getting Started
+
+### 1️⃣ Clone the repository
+```bash
+git clone https://github.com/your-username/mojito-cocktails.git
+cd mojito-cocktails
+```
+
+### 2️⃣ Install dependencies
+```bash
+npm install
+```
+
+### 3️⃣ Run the development server
+```bash
+npm run dev
+```
+Visit http://localhost:5173/ in your browser.
+
+### 4️⃣ Build for production
+```bash
+npm run build
+npm run preview
+```
+
+---
+
+## 🤝 Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you’d like to change.
+
+---
+
+## 👨‍💻 Author
+Developed with ❤️ by [Tanishq Nikam](https://www.linkedin.com/in/tanishqnikam/)
+
+
